@@ -21,3 +21,4 @@ main.py dosyasını çalıştırınız.
 ## Geliştiriciler
 - Hamza SERT / 255815032
 - Osman Eren AKYOL / 255815049
+- Abdulsamet KAYA / 255815008
