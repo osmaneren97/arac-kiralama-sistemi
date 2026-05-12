@@ -18,3 +18,6 @@ Bu proje Python programlama dili kullanılarak geliştirilmiş basit bir araç k
 ## Çalıştırma
 
 main.py dosyasını çalıştırınız.
+## Geliştiriciler
+- Hamza SERT / 255815032
+- Osman Eren AKYOL / 255815049
